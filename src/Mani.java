@@ -10,6 +10,7 @@ public class Mani
         System.out.println(~b);//9 (positive of total minus, positive starts from 0)
         System.out.println(!c);//false (opposite of boolean value)
         System.out.println(!d);//true
+        System.out.println(a++ +" "+ ++a);
 
 
         //sample
